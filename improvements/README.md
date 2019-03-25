@@ -1,5 +1,5 @@
-#General Improvements to OJS 3
+##General Improvements to OJS 3
 
 
-## Open Graph Protocol
+### Open Graph Protocol
 
